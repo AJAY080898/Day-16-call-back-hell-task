@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#time {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 80px;
+  margin-top: 300px;
+  font-size: 200px;
+  background: linear-gradient(to right, greenyellow 33.33%, white 33.33%, white 66.66%, orange 66.66%);
+  color: rgb(246, 9, 9);
+  color: rgb(246, 9, 9);
+
+}
